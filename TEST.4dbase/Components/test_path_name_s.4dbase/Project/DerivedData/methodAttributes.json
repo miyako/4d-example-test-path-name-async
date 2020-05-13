@@ -1,0 +1,39 @@
+﻿{
+	"methods": {
+		"test_path_name": {
+			"timeStamp": "2020-05-13T00:27:13.544Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		},
+		"TEST": {
+			"timeStamp": "2020-05-13T00:34:40.827Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		},
+		"path_manager": {
+			"timeStamp": "2020-05-13T00:34:09.181Z",
+			"attributes": {
+				"shared": true,
+				"preemptive": "capable"
+			}
+		},
+		"TEST_f": {
+			"timeStamp": "2020-05-13T00:31:59.667Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		},
+		"test_path_name_p": {
+			"timeStamp": "2020-05-13T00:31:26.643Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		}
+	}
+}

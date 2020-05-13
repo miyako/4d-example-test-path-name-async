@@ -1,0 +1,20 @@
+﻿{
+	"private": {
+		"methods": [
+			"test_path_name",
+			"test_path_name_p"
+		]
+	},
+	"public": {
+		"methods": [
+			"path_manager"
+		]
+	},
+	"tests": {
+		"methods": [
+			"TEST",
+			"TEST_f"
+		]
+	},
+	"trash": {}
+}
